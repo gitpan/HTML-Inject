@@ -39,4 +39,6 @@ resources:
   homepage: https://metacpan.org/release/HTML-Inject
   license: http://dev.perl.org/licenses/
   repository: https://bitbucket.org/tobyink/p5-html-inject
-version: 0.002
+version: 0.003
+x_contributors:
+  - 'Andreas J. König <ANDK@cpan.org>'

@@ -6,6 +6,11 @@ Home page:    <https://metacpan.org/release/HTML-Inject>
 Bug tracker:  <http://rt.cpan.org/Dist/Display.html?Queue=HTML-Inject>
 Maintainer:   Toby Inkster <mailto:tobyink@cpan.org>
 
+0.003  2013-04-03
+
+ - (Bugfix) Bleadperl v5.17.10-30-g0f539b1 breaks CPAN
+   ++$ANDK
+
 0.002  2012-10-16
 
  - (Addition) Use Scalar::Does for type constraint checking.
