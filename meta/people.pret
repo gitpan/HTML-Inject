@@ -1,7 +1,0 @@
-cpan:TOBYINK
-	foaf:name  "Toby Inkster";
-	foaf:mbox  <mailto:tobyink@cpan.org>.
-
-cpan:ANDK
-	foaf:name  "Andreas J. König".
-
